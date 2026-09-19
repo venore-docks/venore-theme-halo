@@ -1,6 +1,6 @@
 {
   "name": "@venore/theme-halo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Halo — variação do Aurora (developer tool dark-first): conteúdo em cartão contido, acento rosa/magenta.",
   "private": true,
   "type": "module",
